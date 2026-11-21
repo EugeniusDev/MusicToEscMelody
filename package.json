@@ -1,0 +1,1 @@
+{"name":"score-to-esc","version":"1.0.0","private":true,"description":"Browser-only MusicXML and MIDI to ESC RTTTL converter","license":"MIT","scripts":{"test":"node --test tests/*.test.cjs"},"devDependencies":{"linkedom":"0.18.12"}}
